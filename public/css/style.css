@@ -1,0 +1,58 @@
+.table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.first-line {
+    background-color: burlywood;
+}
+
+th {
+    border: 1px solid black;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 2px 10px;
+ }
+
+ h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+ }
+
+ h2 {
+    margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+ }
+
+.form-book {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.add-book {
+    display: block;
+}
+
+.button {
+    margin-top: 35px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+button:hover {
+    background-color: rgb(124, 89, 43);
+    color: white;
+}
+
+.delete {
+    color: red;
+}
